@@ -1,27 +1,25 @@
 {
   "name": "salus-it600-pack",
   "version": "1.1.7",
-  "description": "Salus iT600 Integration Package",
+  "description": "Salus Premium IT600 Integration Package ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrmnt/salus-it600-pack.git"
+    "url": "git@github.com:PuscasAdi/salus-it-600-premium-connect.git"
   },
   "bugs": {
-    "url": "https://github.com/adrmnt/salus-it600-pack/issues"
+    "url": "git@github.com:PuscasAdi/salus-it-600-premium-connect.git/issues"
   },
   "keywords": [
     "salus",
     "iT600"
   ],
-  "author": "Adrian Manta",
+  "author": "Adrian Puscas",
   "license": "ISC",
-  "homepage": "https://github.com/adrmnt/salus-it600-pack#readme",
-  "dependencies": {
-    "fast-json-parse": "^1.0.3"
-  },
+  "homepage": "git@github.com:PuscasAdi/salus-it-600-premium-connect.git#readme",
+  "dependencies": {},
   "devDependencies": {}
 }
